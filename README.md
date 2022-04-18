@@ -1,5 +1,5 @@
-# Virtual-assistant
-Virtual assistant using Azure
+# Pediatric Asthma Symptom Virtual-assistant
+Pediatric Asthma Symptom Virtual assistant using Azure
 
 Project Title*: Pediatric Asthma Symptom Scale with [Azure Health Bot](https://docs.microsoft.com/en-us/azure/health-bot/overview)
 
